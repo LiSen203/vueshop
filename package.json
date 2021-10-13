@@ -11,7 +11,7 @@
     "server":"npm json-server --watch db.json"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "json-server": "^0.16.3",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",
